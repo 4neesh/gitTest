@@ -6,6 +6,7 @@ public class Application {
         System.out.println("from first branch");
 
         System.out.println("from second branch");
-    }
 
+        System.out.println( "from third branch");
+    }
 }
