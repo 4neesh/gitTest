@@ -4,6 +4,8 @@ public class Application {
         System.out.println("from master");
 
         System.out.println("from first branch");
+
+        System.out.println("from second branch");
     }
 
 }
